@@ -24,6 +24,8 @@ namespace Extractor
                 }
 
                 extractor.Extract(commands);
+
+                Console.WriteLine("Program finished successfully.");
             });
         }
     }
