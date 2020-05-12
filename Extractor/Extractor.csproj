@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Version>1.0.1</Version>
+    <Copyright>(C) 2020 DeuxAlpha</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
